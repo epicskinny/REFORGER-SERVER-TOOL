@@ -13,7 +13,7 @@ deployment.
 
 # Current Version
 
-**Version:** 3.8
+**Version:** 1.8
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@ Theme selection is automatically saved.
 
 # Recent Updates
 
-## Version 3.8
+## Version 1.8
 
 ### Added
 
@@ -127,7 +127,7 @@ Theme selection is automatically saved.
 
 ------------------------------------------------------------------------
 
-## Version 3.7
+## Version 1.7
 
 ### Added
 
@@ -137,7 +137,7 @@ Theme selection is automatically saved.
 
 ------------------------------------------------------------------------
 
-## Version 3.6
+## Version 1.6
 
 ### Fixed
 
@@ -147,7 +147,7 @@ Theme selection is automatically saved.
 
 ------------------------------------------------------------------------
 
-## Version 3.5
+## Version 1.5
 
 ### Added
 
@@ -159,7 +159,7 @@ Theme selection is automatically saved.
 
 ------------------------------------------------------------------------
 
-## Version 3.4
+## Version 1.4
 
 ### Added
 
@@ -169,7 +169,7 @@ Theme selection is automatically saved.
 
 ------------------------------------------------------------------------
 
-## Version 3.3
+## Version 1.3
 
 ### Added
 
@@ -191,7 +191,7 @@ Planned features:
 -   Mission browser with previews
 -   Preset manager
 -   Automatic backup scheduler
--   Plugin support
+-   Plugin support 
 -   RCON console
 -   Performance graphs
 -   Server monitoring
